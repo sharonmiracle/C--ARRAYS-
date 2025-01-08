@@ -2,4 +2,7 @@
 2) Sorting an array in descending order (Selection Sort)
 3) Array left rotation
 4) Array right rotation
-   
+5) Print the elements of an array
+6) Print the alternate elements of an array
+7) Print the sum of array elements
+8) 
