@@ -5,4 +5,4 @@
 5) Print the elements of an array
 6) Print the alternate elements of an array
 7) Print the sum of array elements
-8) 
+8) Print the array elements which is equal to its index value
