@@ -9,4 +9,5 @@
 9) Print the array elements which is equal to its index value
 10) Print the sum of smaller elements
 11) Print the count of smaller elements
-12) 
+12) Print the sum of even and odd elements in an array
+13) 
