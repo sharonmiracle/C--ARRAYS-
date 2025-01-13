@@ -11,3 +11,6 @@
 11) Print the count of smaller elements
 12) Print the sum of even and odd elements in an array
 13) Print the sum of non-repeated elements in an array
+14) Print the count of non-repeated elements in an array
+15) Print the sum of repeated elements in an array (counts duplicate element multiple times)
+16) Print the sum of repeated elements in an array (counts duplicate element single time)
