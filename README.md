@@ -5,5 +5,7 @@
 5) Print the elements of an array
 6) Print the alternate elements of an array
 7) Print the sum of array elements
-8) Print the array elements which is equal to its index value
-9) Print the count of smaller elements
+8) Print the count of array elements
+9) Print the array elements which is equal to its index value
+10) Print the count of smaller elements
+11) 
