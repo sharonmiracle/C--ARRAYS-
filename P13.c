@@ -13,9 +13,9 @@ int main()
     }
     for(int i=0;i<n;i++)
     {
+        flag = 1;
         for(int j=0;j<n;j++)
         {
-            flag = 1;
             if(i!=j && arr[i]==arr[j])
             {
                 flag = 0;
