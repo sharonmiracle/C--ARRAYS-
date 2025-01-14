@@ -16,3 +16,5 @@
 16) Print the count of repeated elements in an array (counts duplicate element multiple times)
 17) Print the sum of repeated elements in an array (counts duplicate element single time)
 18) Print the count of repeated elements in an array (counts duplicate element single time)
+19) Deletion of single element in an array
+20) Insertion of single element in an array
