@@ -16,7 +16,7 @@ int main()
         {
             if(arr[i]==arr[j])
             {
-                sum+=arr[i];
+                sum+=arr[j];
                 break;
             }
         }
