@@ -20,3 +20,5 @@
 20) Insertion of single element in an array
 21) Print the Prime Numbers in an array / Delete the Non Prime Numbers in an array
 22) Print the Non Prime Numbers in an array / Delete the Prime Numbers in an array
+23) Print the sum of Prime Numbers in an array
+24) Print the sum of Non Prime Numbers in an array
