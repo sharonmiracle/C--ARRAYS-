@@ -9,6 +9,7 @@ int main()
     {
         scanf("%d",&arr[i]);
     }
+    printf("The Prime Numbers are : ");
     for(int i=0;i<n;i++)
     {
         int flag=1;
