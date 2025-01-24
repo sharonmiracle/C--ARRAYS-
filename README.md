@@ -18,3 +18,5 @@
 18) Print the count of repeated elements in an array (counts duplicate element single time)
 19) Deletion of single element in an array
 20) Insertion of single element in an array
+21) Print the Prime Numbers in an array / Delete the Non Prime Numbers in an array
+22) Print the Non Prime Numbers in an array / Delete the Prime Numbers in an array
